@@ -1,0 +1,8 @@
+*.log
+.idea
+__pycache__
+build
+dist
+pyvalidator/*.pyc
+*.egg-info
+venv
